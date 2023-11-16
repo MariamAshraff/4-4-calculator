@@ -4,7 +4,7 @@ The basic idea of a calculator is to provide a convenient and efficient tool for
 
 Features:
 -you can perform mathematical operations on numbers up to any digits in first row.
--can do basic mathematical operations ( + , - , * , / ) between two integer number.
+-can do basic mathematical operations ( + , - , * , / ) between two integer number. 
 -must press ON/C button to make Calculator to work. 
 -handle syntax error and math error(infinity).
 -handle floating results in case '/'.
