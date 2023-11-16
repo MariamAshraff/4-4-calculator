@@ -16,3 +16,4 @@ software layers :-
 1- MCAL layer: GPIO.
 2- HAL layer: LCD(4 bit mode) and Keypad module.
 3- Application layer.
+![Screenshot_2](https://github.com/MariamAshraff/4x4-calculator/assets/118696706/74800009-dc5a-4ee3-800c-3fcede51f413)
