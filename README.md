@@ -1,3 +1,4 @@
+#Simple calculator
 Embedded Systems project which is designing a simple calculator using atmega32 micro controller.
 The basic idea of a calculator is to provide a convenient and efficient tool for performing mathematical calculations. It is designed to perform various arithmetic operations such as addition, subtraction, multiplication, division, and so on.
 
